@@ -3,9 +3,13 @@
 [<img align="left" alt="Pamela Santos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Pamela Santos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
 ## Hi!
 
-My name is Pamela Santos! I'm a front-end developer for more than 7 years and at the moment I'm focus to evolve my knowledge in ReactJS, Javascript, SASS/SCSS, TypeScript and NodeJS. I started in this life working with ecommerce and since than I've never stoped to grow up together with this wonderful market that doesn't stop to evolve.
+My name is Pamela Santos!
+
+I'm a front-end developer for more than 7 years and at the moment I'm focus to evolve my knowledge in ReactJS, Javascript, SASS/SCSS, TypeScript and NodeJS. I started in this life working with ecommerce and since than I've never stoped to grow up together with this wonderful market that doesn't stop to evolve.
 
 - I'm working with Javascript, jQuery, ES6, SASS, HTML5, React, Gulp and always try to learn more...
 - Checkout my [website](https://www.pamesantos.com.br/)
