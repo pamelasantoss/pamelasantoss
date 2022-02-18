@@ -1,23 +1,11 @@
-# Pamela Santos
 
-[<img align="left" alt="Pamela Santos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Pamela Santos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### :woman_technologist: &nbsp;About me
 
-<br />
+- :hourglass: &nbsp; Exploring new technologies and keep learning more and more everyday!
+- :computer: &nbsp; Working as a **Front-End Developer** at <a href="https://www.hurb.com/br/" target="_blank">Hurb</a>.
+- :nerd_face: &nbsp; Learning more about **ReactJS, TypeScript, GraphQL** and **NextJS**.
 
-## Hi!
-
-My name is Pamela Santos!
-
-I'm a front-end developer for more than 7 years and at the moment I'm focus to evolve my knowledge in ReactJS, Javascript, SASS/SCSS, TypeScript and NodeJS. I started in this life working with ecommerce and since than I've never stoped to grow up together with this wonderful market that doesn't stop to evolve.
-
-- I'm working with Javascript, jQuery, ES6, SASS, HTML5, React, Gulp and always try to learn more...
-- Checkout my [website](https://www.pamesantos.com.br/)
-- Any help? Send me an [e-mail](mailto:pamesantoss@hotmail.com)
-
-
-#### Languages and Tools:
-
+### :rocket: &nbsp;Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -31,5 +19,6 @@ I'm a front-end developer for more than 7 years and at the moment I'm focus to e
 <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
-[instagram]: https://www.instagram.com/pamesantoss/
-[linkedin]: https://www.linkedin.com/in/pamela-santos-frontend/
+<br />
+---
+Made with :heart: [Get in touch with me!](https://www.pamesantos.com.br/)
