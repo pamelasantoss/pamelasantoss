@@ -2,7 +2,7 @@
 ### :woman_technologist: &nbsp;About me
 
 - :hourglass: &nbsp; Exploring new technologies and keep learning more and more everyday!
-- :computer: &nbsp; Working as a **Front-End Developer** at <a href="https://www.hurb.com/br/" target="_blank">Hurb</a>.
+- :computer: &nbsp; Working as a **Front-End Developer** at <a href="https://www.vagas.com.br/" target="_blank">VAGAS Tecnologia</a>.
 - :nerd_face: &nbsp; Learning more about **ReactJS, TypeScript, GraphQL** and **NextJS**.
 
 ### :rocket: &nbsp;Languages and Tools
