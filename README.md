@@ -6,7 +6,7 @@
 - :nerd_face: &nbsp; Learning more about **ReactJS, TypeScript, GraphQL** and **NextJS**.
 
 ### :rocket: &nbsp;Skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,git,github,js,react,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,git,github,js,react,nextjs,ts,graphql,docker,jest)](https://skillicons.dev)
 
 <br/><br/>
 ---
