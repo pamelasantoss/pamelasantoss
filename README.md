@@ -21,4 +21,4 @@
 
 <br/><br/>
 ---
-Made with :heart: [Get in touch with me!](https://www.pamelasantos.dev.br/)
+Made with :heart: [Get in touch with me!](https://pamelasantos.dev.br/)
