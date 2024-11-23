@@ -8,6 +8,6 @@
 ### :rocket: &nbsp;Skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,tailwind,git,github,js,react,nextjs,ts,graphql,docker,jest)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 ---
 Made with :heart: [Get in touch with me!](https://pamelasantos.dev.br/)
